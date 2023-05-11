@@ -16,6 +16,6 @@ pip install --upgrade pip
 ```
 - For the last line:
 ```python
-pip install --upgrade pymupdf
+pip install pymupdf
 ```
 
