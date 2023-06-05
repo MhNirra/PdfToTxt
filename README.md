@@ -1,7 +1,7 @@
 
 # PDF to TXT
 
-Install the librerie used in this project.
+Install the library used in this project.
 
 
 
